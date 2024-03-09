@@ -13,7 +13,7 @@
 <h2 align="center">Stats</h2>
 
 <p align="center">
-  <img width="49.5%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=blryface&show_icons=true&include_all_commits=true&count_private=true&show=[reviews,prs_merged,prs_merged_percentage]&bg_color=00000000&text_color=FFF&icon_color=E3E3E3&title_color=EFEFEF&border_color=012345">
+  <img width="49.5%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=blryface&show_icons=true&include_all_commits=true&count_private=true&show=[reviews,prs_merged,prs_merged_percentage]&bg_color=00000066&text_color=FFF&icon_color=E3E3E3&title_color=EFEFEF&border_color=012345">
 
 <h2 align="center">Socials & Support Me</h2>
 
