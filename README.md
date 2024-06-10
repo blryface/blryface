@@ -10,6 +10,8 @@
   I'm just a random 🇧🇷 guy that makes minecraft gay.
 </p>
 
+![GitHub Sponsors](https://img.shields.io/github/sponsors/blryface?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fsponsors%2Fblryface) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/831872?style=for-the-badge&logo=Curseforge&label=Pridepack%20Curseforge%20downloads&color=orange&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Ftexture-packs%2Fpride-pack) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/pridepack?style=for-the-badge&logo=modrinth&label=Pridepack%20Modrinth%20Downloads&color=green&link=https%3A%2F%2Fmodrtinth.com%2Fpridepack)
+
 <h2 align="center">Stats</h2>
 
 <p align="center">
