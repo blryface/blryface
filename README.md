@@ -12,6 +12,13 @@
 
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/blryface?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fsponsors%2Fblryface) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/831872?style=for-the-badge&logo=Curseforge&label=Pridepack%20Curseforge%20downloads&color=orange&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Ftexture-packs%2Fpride-pack) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/pridepack?style=for-the-badge&logo=modrinth&label=Pridepack%20Modrinth%20Downloads&color=green&link=https%3A%2F%2Fmodrtinth.com%2Fpridepack)
 
+
+<h2 align="center">What I am currently listening to:</h3>
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316dirrs3gloadayxutyi544cw2i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/>
+</p>
+
 <h2 align="center">Stats</h2>
 
 <p align="center">
@@ -35,9 +42,9 @@
   <a href="https://github.com/sponsors/Blryface">
     <img alt="Github Sponsors" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/social_icons/GitHub%20-%20Circle.svg" height="48px">
   </a>
-  <a href="https://donate.pridecraft.gay">
+ <!-- <a href="https://donate.pridecraft.gay">
     <img alt="Ko-Fi" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/social_icons/Ko-Fi%20-%20Circle.svg" height="48px">
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
